@@ -1,3 +1,3 @@
 # remora
 
-learning some shit
+Self-balancing monowheel project. Based on the Segway/NineBot OneS1. 
